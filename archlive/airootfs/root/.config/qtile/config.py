@@ -402,7 +402,7 @@ floating_layout = layout.Floating(
 @hook.subscribe.startup_once
 def start_once():
     home = os.path.expanduser("~")
-    subprocess.call([home + "/.config/qtile/autostart.sh"])
+    subprocess.call(["sh", home + "/.config/qtile/autostart.sh"])
 
 @hook.subscribe.startup
 def runner():
