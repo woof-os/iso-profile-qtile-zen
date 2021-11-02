@@ -156,3 +156,5 @@ pulseaudio
 xdotool
 brave-bin
 yay
+networkmanager
+network-manager-applet
