@@ -41,7 +41,6 @@ irssi
 iw
 iwd
 jfsutils
-kitty-terminfo
 less
 lftp
 libfido2
@@ -116,7 +115,7 @@ xfsprogs
 xl2tpd
 calamares
 zsh
-kitty
+alacritty
 woof-change-wall
 woof-qtile-config
 woof-gtk-config
@@ -125,7 +124,7 @@ gtk2
 lxappearance
 woof-rofi-config
 woof-dunst-config
-woof-kitty-config
+woof-alacritty-config
 woof-fetch-walls
 woof-qt5-config
 woof-wallpapers
