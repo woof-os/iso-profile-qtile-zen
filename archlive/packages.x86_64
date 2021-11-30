@@ -119,12 +119,12 @@ kitty
 woof-change-wall
 woof-qtile-config
 woof-gtk-config
+woof-kitty-config
 gtk3
 gtk2
 lxappearance
 woof-rofi-config
 woof-dunst-config
-woof-alacritty-config
 woof-fetch-walls
 woof-qt5-config
 woof-wallpapers
