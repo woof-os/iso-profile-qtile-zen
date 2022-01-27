@@ -1,3 +1,5 @@
+# DEPRECATED DUE TO IT BEING HARD TO MAINTAIN THE BOOTLOADER
+
 # iso-profile
 
 # ISO profile for Woof OS
